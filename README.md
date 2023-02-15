@@ -1,6 +1,6 @@
 # <p> <img align="center" alt="Java" width="60px" style="padding-right:5px; padding-top:0px" src="https://user-images.githubusercontent.com/54732761/215495500-28e568db-07f8-4bb5-8b32-a2cdf6026cf1.png"/> Paul Dang :vietnam: </p>
 
-**`Cat Lover - Backend Developer`** :cat2: :black_cat:
+**`FullStack Developer - Cat Lover`** :cat2: :black_cat:
 
 ### 💼 Languages and Tools
 
