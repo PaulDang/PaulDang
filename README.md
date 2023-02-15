@@ -30,8 +30,8 @@ Solgan for ✨ My 2023 ✨ : "Believe in what you do and you can do it"
 <br/>
 <br/>
 
-<details>
- <summary><h3>👨‍💻 Paul's Coding Journey</h3></summary>
+
+ <h3>👨‍💻 Paul's Coding Journey</h3>
 
    I used to be a Physics Teacher after graduated from SG University and I realized that the job didn't suit me. Luckly, I got a new job at an IT company as a Technical Support Specialist. After 9 months, my boss recognized my skills could adapt with a deeper technical level so they decided to move me to a more challenging position which was Production Monitor Engineer. At the current position, most of the workload are quite manual but it requires the person on duty to focus on details in order to read complex system log to detect the issue and found out the solution. I sometimes wrote simple scripts to make my work easier.
 In 2022, I found out my new passion that is being a coder who can make thoughts come true. That's why I enrolled a fullstack course to get closer to my dream. Let's explore 2023 and see what I can do
