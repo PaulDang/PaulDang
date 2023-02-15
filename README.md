@@ -1,5 +1,5 @@
 # <p> <img align="center" alt="Java" width="60px" style="padding-right:5px; padding-top:0px" src="https://user-images.githubusercontent.com/54732761/215495500-28e568db-07f8-4bb5-8b32-a2cdf6026cf1.png"/> Paul Dang :vietnam: </p>
-I'm Paul - a coder and become a fullstack developer to make thoughts come true.
+A coder who makes thoughts come true.
 
 **`FullStack Developer - Cat Lover`** :cat2: :black_cat:
 
@@ -28,7 +28,7 @@ I'm Paul - a coder and become a fullstack developer to make thoughts come true.
 
 <details>
  <summary><h3>👨‍💻 Paul's Coding Journey</h3></summary>
-
+I used to a Physics Teacher
 
 <!--
 **PaulDang/PaulDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
