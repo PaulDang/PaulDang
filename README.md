@@ -1,5 +1,9 @@
 # <p> <img align="center" alt="Java" width="60px" style="padding-right:5px; padding-top:0px" src="https://user-images.githubusercontent.com/54732761/215495500-28e568db-07f8-4bb5-8b32-a2cdf6026cf1.png"/> Paul Dang :vietnam: </p>
+
 <p>A coder who makes thoughts come true.</p>
+Solgan for ✨ My 2023 ✨ : "Believe in what you do and you can do it"
+
+---
 
 **`FullStack Developer - Cat Lover`** :cat2: :black_cat:
 
@@ -28,8 +32,10 @@
 
 <details>
  <summary><h3>👨‍💻 Paul's Coding Journey</h3></summary>
-I used to a Physics Teacher
 
+   I used to a Physics Teacher and I realized that the job didn't suit on me. Luckly, I got a new job at an IT company as a customer services. After a half-year, I moved to other deeper technical team - Production Monitor Team. At this team, most of workload are quite manual, then I wrote a simple script to make them easier.
+   At that time, I wanted to be a coder who makes thoughts come true. That's why I enrolled a fullstack course to get closer to my dream. Let's explore 2023 and see What I can do
+   
 <!--
 **PaulDang/PaulDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
