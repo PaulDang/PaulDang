@@ -26,7 +26,7 @@
 <br/>
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Paul's Coding Journey</h3></summary>
 
 
 <!--
